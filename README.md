@@ -1,4 +1,4 @@
-# Project-Magang-Peta-Informasi-UPTD-Wilayah-Sungai-Cisadea-Cibareno
+# Peta-Informasi-UPTD-Wilayah-Sungai-Cisadea-Cibareno
 Peta informasi Unit Pelaksana Teknis Daerah (UPTD) wilayah sungai Cisadea–Cibareno.
 
 ## Deskripsi
@@ -12,4 +12,4 @@ Repository ini hasil kegiatan magang yang dilaksanakan di bawah koordinasi Dinas
 QGIS
 
 ## Output
-Peta informasi UPTD Wilayah Sungai Cisadea–Cibareno
+Peta Informasi UPTD Wilayah Sungai Cisadea–Cibareno
